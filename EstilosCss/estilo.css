@@ -1,0 +1,63 @@
+#cabecalho{
+	background-image: url('imagens/capa.png');
+}
+
+#background{
+	background-image: url('imagens/fundo.png');
+}
+
+#largura{
+	width: 900px;
+}
+
+#largura1{
+	width: 900px;
+}
+
+
+.largura{
+	padding: 40px;
+}
+
+#menu{
+	background-color: #d2d2c1;
+	height: 100px;
+}
+
+.corpo{
+	width: 900px;
+	padding-top: 10px;
+	background-color: #e3e3d9;
+	
+}
+
+.posicao{
+	position: left center;
+}
+
+.titulo {
+	color: #968C74;
+	
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+.formatacao {
+	padding: 10px;
+}
+
+.borda{
+	border-width: 10px;
+	border-style: solid;
+	border-color: #d2d2c1;
+}
+
+.fonte{
+	font-family: Arial, sans-serif;
+}
